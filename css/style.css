@@ -1,0 +1,56 @@
+.container {
+    width: 400px;
+    height: auto;
+    margin: 10% auto;
+    background-image: url(https://cdn.magdeleine.co/wp-content/uploads/2016/07/pineapple-1400x933.jpg);
+    background-size: cover;
+    background-position: left;
+    padding: 2% 2%;
+    
+}
+
+
+body {
+	color: white;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+h1 {
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    text-shadow: 2px 2px green;
+}
+
+h2 {
+    color: green;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+img src {
+color: black;
+padding: 20px;
+text-align: center;
+
+}
+
+
+.social-media-icon {
+max-width: 100%;
+}
+a {
+    display: inline-block;
+    width: 6%;
+    margin: 0 2em;
+}
+
+
+.dynamic-content {
+    color: green;
+}
+
+p id {
+    color: black;
+}
